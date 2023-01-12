@@ -21,7 +21,8 @@ simple Financial Statement addon that generates financial statements as notes
     Each Statement generates its Note seperatly.
     
     For now, if in same Quarter and same year you need to delete duplicats. from you company/idea folder:
-    ![image](https://user-images.githubusercontent.com/6575383/211979249-a27da8e1-ff77-49c5-8c4a-cefbad9da2c3.png)
+   ![image](https://user-images.githubusercontent.com/6575383/211980140-0b325f5d-fccf-40e0-ae94-5b0a23557779.png)
+
     
     The topology is auto generated.
     
