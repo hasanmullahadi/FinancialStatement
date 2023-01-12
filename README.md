@@ -14,7 +14,9 @@ simple Financial Statement addon that generates financial statements as notes
 
 
   # Running
-    Click on the side leaf: ![image](https://user-images.githubusercontent.com/6575383/211981059-9ac8bb4f-b32a-4b7c-b0b4-f99564709d5f.png)
+    Click on the side leaf: ![image](https://user-images.githubusercontent.com/6575383/211981437-39dc230c-3d54-462c-9c89-128606783e65.png)
+
+
 
 
     to display the right view workspace:
