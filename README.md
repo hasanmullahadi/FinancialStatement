@@ -10,7 +10,8 @@ simple Financial Statement addon that generates financial statements as notes
   
   # Setting
     In Financial Statement setting you can adjust the following:
-    ![image](https://user-images.githubusercontent.com/6575383/211978804-5973d7b6-86c2-4ee9-82e4-30a98ccbcc5c.png)
+   ![image](https://user-images.githubusercontent.com/6575383/211980559-f05d4c52-9fd4-44bf-ac4b-1496afbbe9a9.png)
+
 
   # Running
     Click on the side leaf: ![image](https://user-images.githubusercontent.com/6575383/211978964-e9aaac88-3f23-4b41-a234-e1430e104bdd.png)
